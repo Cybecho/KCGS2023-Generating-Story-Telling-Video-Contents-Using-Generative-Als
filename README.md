@@ -11,9 +11,6 @@
 
 # KCGS2023-Generating Story Telling Video Contents Using Generative AIs
 
-[DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492748)
-
-[원본 논문 읽기](https://github.com/Cybecho/KCGS2023-Establishing-an-XR-Studio-with-Anti-Glare-Monitors-Case-Studie/blob/main/XR%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_KCGS2023.pdf)
 
 Dept. of Media Technology and Media Contents, The Catholic University of Korea
     
