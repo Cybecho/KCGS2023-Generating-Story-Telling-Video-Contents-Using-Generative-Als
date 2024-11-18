@@ -11,6 +11,9 @@
 
 # KCGS2023-Generating Story Telling Video Contents Using Generative AIs
 
+[DBpia 등록 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492747)
+[논문 원본 pdf](https://github.com/Cybecho/Project_AiAni/blob/main/AiAni2023_Paper.pdf)
+
 
 Dept. of Media Technology and Media Contents, The Catholic University of Korea
     
